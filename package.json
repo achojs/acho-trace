@@ -1,0 +1,43 @@
+{
+  "name": "acho-trace",
+  "description": "Automatically logs traces",
+  "homepage": "https://github.com/achohq/acho-trace",
+  "version": "0.0.0",
+  "main": "./index.js",
+  "author": {
+    "url": "https://github.com/achohq"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/achohq/acho-trace.git"
+  },
+  "bugs": {
+    "url": "https://github.com/achohq/acho-trace/issues"
+  },
+  "keywords": [
+    "acho",
+    "automagically",
+    "automatically",
+    "log",
+    "logging",
+    "trace"
+  ],
+  "dependencies": {
+    "aku": "~1.0.2",
+    "coffee-script": "~1.10.0"
+  },
+  "devDependencies": {
+    "acho": "latest",
+    "git-dirty": "latest",
+    "mocha": "latest",
+    "should": "latest"
+  },
+  "engines": {
+    "node": ">= 0.10"
+  },
+  "scripts": {
+    "clean": "rm -rf node_modules",
+    "test": "echo 'currently without tests'"
+  },
+  "license": "MIT"
+}
