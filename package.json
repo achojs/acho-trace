@@ -2,7 +2,7 @@
   "name": "acho-trace",
   "description": "Automatically logs traces",
   "homepage": "https://github.com/achohq/acho-trace",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "main": "./index.js",
   "author": {
     "url": "https://github.com/achohq"
