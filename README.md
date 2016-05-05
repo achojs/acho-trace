@@ -11,7 +11,7 @@
 [![Dependency status](https://img.shields.io/david/achohq/acho-trace.svg?style=flat-square)](https://david-dm.org/achohq/acho-trace)
 [![Dev Dependencies Status](https://img.shields.io/david/dev/achohq/acho-trace.svg?style=flat-square)](https://david-dm.org/achohq/acho-trace#info=devDependencies)
 [![NPM Status](https://img.shields.io/npm/dm/acho-trace.svg?style=flat-square)](https://www.npmjs.org/package/acho-trace)
-[![Donate](https://img.shields.io/badge/donate-paypal-blue.svg?style=flat-square)](https://paypal.me/achohq)
+[![Donate](https://img.shields.io/badge/donate-paypal-blue.svg?style=flat-square)](https://paypal.me/kikobeats)
 
 > It Envolves async/sync methods for automatically logs traces. Inspired in [Apex log](https://medium.com/@tjholowaychuk/apex-log-e8d9627f4a9a#.bcewdjlmr).
 
